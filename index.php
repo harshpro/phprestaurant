@@ -109,7 +109,7 @@
         
         <script src="jquery-3.5.1.min.js"></script>
         <script>
-        let base_url = "http://localhost:8888/details.php";
+        let base_url = "details.php";
 
         $("document").ready(function(){
             getRestaurantMenuList();
